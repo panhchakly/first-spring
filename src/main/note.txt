@@ -1,0 +1,6 @@
+Java directory use for code java
+resources directory use for :
+    static: use for static page html css javascript
+    template: use for view from controller (need to install dependency such as thymeleaf or FreeMarker)
+    application.properties: use for config as environment config
+pom.xml: as package.json in nodejs for control dependencies
